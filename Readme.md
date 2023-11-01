@@ -5,7 +5,10 @@
 ![](ERD.webp)
 - Thuốc độc: Thật ra nó là thuốc giải =))) cơ mà đã muốn cày cuốc thì ráng cố gắng cày hết khả năng của mình đi, khi nào thấy bấn lắm rồi thì mở nó ra và có thể nó sẽ khai sáng cho bạn đấy, còn bạn nào thích cheat cho xong sớm thì well :v cứ thoải mái mình cũng hong cấm 
 - Link file backup của CSDL AdventureWork: 
-https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
-Tải file AdventureWorks2019.bak sau đó làm theo hướng dẫn như hướng dẫn bên trong link này luôn là có csdl để dùng nhoé
-Lấn cấn liên hệ: https://www.facebook.com/hoanqthinh.404/
-##<3 Thank you guys chúc mọi người cày cuốc vui vẻ
++ [link](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
++ Tải file AdventureWorks2019.bak sau đó làm theo hướng dẫn như hướng dẫn bên trong link này luôn là có csdl để dùng nhoé
+- Lấn cấn liên hệ: https://www.facebook.com/hoanqthinh.404/
+## Yêu cầu:
+- SQL server: cái này thì phiên bản nào cũng được nhé mà mình recommend dùng SQL Server 2019 bản Dev
+- Tinh thần thép 🤞 này thêm cho zui thui hihi
+# 👾 Thank you guys chúc mọi người cày cuốc vui vẻ
